@@ -6,13 +6,13 @@ The API endpoints in the example are both public endpoints and do not require an
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/) 
 2. Create an API key
-3. Put your API key into the first line of PHP in the ```books.php``` file
+3. Put your API key into the first line of PHP in the ```maps.php``` file
 4. Upload your files to a PHP server and test
 
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Google Books API](https://developers.google.com/books)
+* [Google Books API](https://developers.google.com/maps)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">

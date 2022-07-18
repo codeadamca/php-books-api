@@ -1,4 +1,4 @@
-# php-books-api
+# Using PHP with the Google Books API
 
 A basic example of retrieving data using the Google Books API and PHP. 
 

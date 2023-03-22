@@ -4,7 +4,7 @@
 // Or create an API key in the Google Cloud Console
 // https://console.cloud.google.com/
 
-$key = '';
+$key = '<GOOGLE_BOOK_API_KEY>';
 
 ?>
 <!doctype html>

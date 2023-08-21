@@ -9,7 +9,9 @@ The API endpoints in the example are both public endpoints and do not require an
 3. Put your API key into the first line of PHP in the ```maps.php``` file
 4. Upload your files to a PHP server and test
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Google Books API](https://developers.google.com/maps)
